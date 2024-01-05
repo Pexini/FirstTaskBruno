@@ -2,7 +2,7 @@ package task1;
 
 import java.util.Scanner;
 
-public class areaOfTriangle {
+public class perimeterOfTriangle {
     public static void main(String[] args) {
         System.out.println("Привет, я помогу рассчитать периметр треугольника, пожалуйста введите поочередно три стороны треугольника: ");
         Scanner scaner = new Scanner(System.in);
